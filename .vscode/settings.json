@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.format.semicolons": "insert",
+    "javascript.preferences.quoteStyle": "single"
+}
