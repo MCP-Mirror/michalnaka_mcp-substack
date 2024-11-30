@@ -8,9 +8,9 @@
     "start": "node lib/index.mjs"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.6.0",
+    "@modelcontextprotocol/sdk": "^0.6.1",
+    "cheerio": "^1.0.0",
     "node-fetch": "^3.3.2",
-    "cheerio": "^1.0.0-rc.12",
-    "undici": "^5.28.2"
+    "undici": "^5.28.4"
   }
 }
